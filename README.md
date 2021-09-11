@@ -1,5 +1,6 @@
 # My certificates
-I studied the course of Anatoly Karpov "Basics of Statistics"![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics%20of%20statistics_stepik-certificate.pdf).
+I studied the course of 
+Anatoly Karpov "Basics of Statistics"![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics%20of%20statistics_stepik-certificate.pdf).
  
 Course topics:
 1. Confidence interval
