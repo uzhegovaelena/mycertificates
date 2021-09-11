@@ -1,5 +1,5 @@
 # My certificates
-I studied the course of Anatoly Karpov ["Basics of Statistics"](https://stepik.org/course/76).
+I studied the course of Anatoliy Karpov ["Basics of Statistics"](https://stepik.org/course/76).
 
 ![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate%20(1).png)
  
